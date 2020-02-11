@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Source\Integration\" />
+    <Folder Include="Source\Modules\Database\" />
+    <Folder Include="Source\Modules\Software\" />
+    <Folder Include="Source\Modules\Storage\" />
+    <Folder Include="Source\Modules\Networking\" />
+    <Folder Include="Source\Modules\Validation\" />
+    <Folder Include="Source\Modules\Settings\" />
+  </ItemGroup>
+
+</Project>

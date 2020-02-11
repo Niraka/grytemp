@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GryphonNetCoreLauncher": {
+      "commandName": "Project",
+      "commandLineArgs": "testKey=testValueOneSplit testValueNoSplit testKey=testValueTwo=Split"
+    }
+  }
+}
